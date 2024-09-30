@@ -1,0 +1,13 @@
+{
+	"Region block comment": {
+		"scope": "html",
+		"prefix": "region",
+		"body": [
+		  "<!-- #region ${1} -->",
+		  "  ${2}",
+		  "<!-- #endregion -->"
+		],
+		"description": "Add expanded block comment"
+	  }, 
+}
+

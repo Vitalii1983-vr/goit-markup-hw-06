@@ -1,0 +1,12 @@
+{
+	"Region block comment": {
+		"scope": "CSS",
+		"prefix": "region",
+		"body": [
+		  "/* #region $1*/",
+		  "$2",
+		  "/* #endregion */"
+		],
+		"description": "A snippet that create Documentation Comment Block."
+	  }, 
+}
